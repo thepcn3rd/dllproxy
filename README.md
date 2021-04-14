@@ -12,6 +12,8 @@ https://medium.com/@AndrewRollins/discord-dll-hijack-cb77a6a288cf
 
 The cpp file in Visual Studio 2019
 ------------------------------------
-Setup “Not using precompiled headers”
-Setup to be Multithreaded /MT
+Setup “Not using precompiled headers” under the properites of the project - Under C/C++
+
+Setup to be Multithreaded /MT - Under the properties and Code Generation
+
 Delete the header files and other cpp files
